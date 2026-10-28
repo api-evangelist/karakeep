@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Karakeep is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://karakeep.com/
+Karakeep provides a bookmark‑everything app that lets users save, organize, and tag links, notes, images, and PDFs across devices. Using AI it automatically tags content for fast retrieval, offers full‑text and semantic search, automation rules, and collaborative lists. The platform is open‑source, self‑hostable via Docker, and also offers a cloud service with a CLI and agentic skills for AI assistants.
+
+**Areas:** Company · Bookmarking · AI · Collaboration · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://karakeep.com/)
+- [Documentation](https://docs.karakeep.com/)
+- [Getting started](https://docs.karakeep.com/getting-started/screenshots)
+- [API reference](https://docs.karakeep.com/api/karakeep-api)
+- [Pricing](https://karakeep.com/pricing/)
+- [Blog](https://karakeep.com/blog/)
+- [Terms of service](https://karakeep.com/terms/)
+- [Privacy policy](https://karakeep.com/privacy/)
+- [GitHub](https://github.com/karakeep-app)
+- [Status](https://status.karakeep.dev/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/karakeep/](https://apis.io/providers/karakeep/).
